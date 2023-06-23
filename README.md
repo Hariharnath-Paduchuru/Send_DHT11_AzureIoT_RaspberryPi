@@ -27,8 +27,11 @@ Send temperature and humidity values read from DHT 11 sensor by interfacing it w
     ```
     pip3 install azure-iot-device asyncio
     ```
-- Download the [DHT library](https://github.com/adafruit/Adafruit_Python_DHT/archive/master.zip) for Raspberry Pi, then extract it from the root folder and run the following command to install it.
+- Download the DHT library for Raspberry Pi, then extract it from the root folder and run the following command to install it.
     ```
+    wget https://github.com/adafruit/Adafruit_Python_DHT/archive/master.zip
+    unzip master.zip
+    cd Adafruit_Python_DHT-master/
     sudo python3 setup.py install
     ```
     
