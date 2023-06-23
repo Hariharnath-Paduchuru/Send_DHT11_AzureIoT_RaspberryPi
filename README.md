@@ -29,7 +29,7 @@ Send temperature and humidity values read from DHT 11 sensor by interfacing it w
     ```
 - Download the [DHT library](https://github.com/adafruit/Adafruit_Python_DHT/archive/master.zip) for Raspberry Pi, then extract it from the root folder and run the following command to install it.
     ```
-    sudo python setup.py install
+    sudo python3 setup.py install
     ```
         
 
