@@ -42,10 +42,10 @@ Send temperature and humidity values read from DHT 11 sensor by interfacing it w
 
 ### Step 3: Hardware schematic
 - Three pin DHT11
-![Hardware Schematic](./assets/DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram.png)
+![Hardware Schematic](./DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram.png)
 
 - Four pin DHT11
-![Hardware Schematic](./assets/DHT11-on-the-Raspberry-Pi-Four-pin-DHT11-Wiring-Diagram.png)
+![Hardware Schematic](./DHT11-on-the-Raspberry-Pi-Four-pin-DHT11-Wiring-Diagram.png)
 
 ### Step 4: Save the Code
 
